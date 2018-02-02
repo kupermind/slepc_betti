@@ -1,0 +1,1 @@
+make SLEPC_DIR=/gpfs/bbp.cscs.ch/home/ovcharen/dev_viz/slepc PETSC_DIR=/gpfs/bbp.cscs.ch/home/ovcharen/dev_viz/petsc PETSC_ARCH=arch-linux2-c-opt eps
